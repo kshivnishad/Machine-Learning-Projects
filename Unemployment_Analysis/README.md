@@ -1,4 +1,4 @@
-# 📉 Unemployment Analysis using Python
+# Unemployment Analysis using Python
 
 ## Project Overview
 This project analyzes unemployment trends using data visualization techniques. It helps in understanding unemployment rates across different regions and time periods.
