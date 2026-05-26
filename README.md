@@ -1,4 +1,4 @@
-# CodeAlpha Machine Learning Projects
+#  Machine Learning Projects
 
 This repository contains 3 machine learning projects completed as part of the CodeAlpha internship.
 
