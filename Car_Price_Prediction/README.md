@@ -1,40 +1,67 @@
-# Car Price Prediction using Machine Learning
+# 🚗 Car Price Prediction using Machine Learning
 
-## Project Overview
-This project predicts car prices based on different features like horsepower, mileage, brand, and engine specifications using a regression model.
+A Machine Learning web application that predicts the selling price of a used car based on different features.
 
-## Objective
-To build a machine learning model that estimates the price of a car based on its features.
+## 🌐 Live Demo
 
-## Dataset Features
-- Car Brand  
-- Year  
-- Mileage  
-- Fuel Type  
-- Engine Power (HP)  
-- Transmission Type  
-- Selling Price (Target Variable)
+👉(https://codealpha-machine-learning-projects-bx4zn2xe6wpzmhiuyhqv2c.streamlit.app/)
 
-## Technologies Used
-- Python  
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- Matplotlib  
+## 📌 Project Overview
 
-## Model Used
+This project uses Machine Learning techniques to predict car prices using features such as:
+
+- Car Name
+- Fuel Type
+- Year
+- Transmission
+- Kilometers Driven
+- Owner Type
+
+The model is trained using Linear Regression and deployed using Streamlit.
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Matplotlib
+
+## ✨ Features
+
+✅ Predict used car selling price instantly  
+✅ Simple and interactive UI  
+✅ Fast prediction system  
+✅ Machine Learning based model  
+✅ Real-time input prediction  
+
+## 📂 Project Structure
+
+```bash
+Car_Price_Prediction/
+│── app.py
+│── model.pkl
+│── requirements.txt
+│── README.md
+│── dataset.csv
+```
+
+## 📊 Machine Learning Model
+
 - Linear Regression
 
-## Workflow
-1. Data cleaning  
-2. Handling missing values  
-3. Feature encoding  
-4. Data visualization  
-5. Model training  
-6. Prediction and evaluation  
+The model learns patterns from training data and predicts estimated car prices.
 
-## Result
-The model learns the relationship between features and car price and predicts values with reasonable accuracy.
+## 👨‍💻 Author
 
-## Author
-Shiv Nishad
+**Shiv Nishad**
+
+🔗  GitHub: [kshivnishad](https://github.com/kshivnishad)
+
+🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/shivnishad)
+
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
